@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Pandatta/Pandatta/blob/main/Website_Page.jpg?raw=true)]([https://pandatta.io](https://github.com/Pandatta))
 <h1 align="center">Hi 👋, I'm Hong Ta Chen</h1>
 <h3 align="center">A passionate frontend, backend and full-stack developer from University Of Waterloo</h3>
-<img align="right" alt="Coding" width="400" hegiht="400" src="https://github.com/Pandatta/Pandatta/blob/main/IMG_4226.jpg?raw=true">
+<img align="right" alt="Coding" width="400" hegiht="400" src="https://github.com/Pandatta/Pandatta/blob/main/Pic.jpg?raw=true">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandatta&label=Profile%20views&color=0e75b6&style=flat" alt="pandatta" /> </p>
 
