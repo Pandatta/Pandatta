@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hong Ta Chen</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1y7nB5R_2RNCQe972CKKyv6Q2LHqU-im-/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1E01aK8F2IDmQPYFyiIJpYHBgKtGv7mIM/view?usp=sharing">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandatta&label=Profile%20views&color=0e75b6&style=flat" alt="pandatta" /> </p>
 
