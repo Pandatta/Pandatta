@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1Fp25aqf3-g_BIp2jsHbYQ-4BBKVGm9a4/view?usp=sharing)](https://pandatta.io)
+[![MasterHead](https://drive.google.com/file/d/1Fp25aqf3-g_BIp2jsHbYQ-4BBKVGm9a4/view?usp=sharing)]([https://pandatta.io](https://github.com/Pandatta))
 <h1 align="center">Hi 👋, I'm Hong Ta Chen</h1>
 <h3 align="center">A passionate frontend developer from University Of Waterloo</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1E01aK8F2IDmQPYFyiIJpYHBgKtGv7mIM/view?usp=sharing">
