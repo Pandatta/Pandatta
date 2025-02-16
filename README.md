@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandatta" alt="pandatta" /></a> </p>
 
-- 🔭 I’m currently working on [Carlories Tracker](https://github.com/Pandatta/Carlorie-Tracker)
+- 🔭 Working on [CoDanh Web](https://github.com/Pandatta/CoDanh)
 
-- 🌱 I’m currently learning **AI/ML & Robotics**
+- 🌱 Learning **AI/ML & Robotics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pandatta](https://github.com/Pandatta)
 
